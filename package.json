@@ -7,6 +7,7 @@
     "body-parser": "^1.14.2",
     "express": "^4.13.4",
     "firebase": "^2.4.0",
+    "heroku": "^0.1.3",
     "save": "^2.1.1"
   },
   "devDependencies": {},
@@ -14,5 +15,19 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Valarezo Lucas Stalin G",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stam1111/stam1111.git"
+  },
+  "keywords": [
+    "node",
+    "firebase",
+    "html",
+    "crud"
+  ],
+  "bugs": {
+    "url": "https://github.com/stam1111/stam1111/issues"
+  },
+  "homepage": "https://github.com/stam1111/stam1111#readme"
 }
