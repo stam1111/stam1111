@@ -1,0 +1,11 @@
+{
+  "name": "stam1111",
+  "scripts": {
+    "postdeploy": "servicios.js"
+  },
+  "env": {
+  },
+  "addons": [
+
+  ]
+}
